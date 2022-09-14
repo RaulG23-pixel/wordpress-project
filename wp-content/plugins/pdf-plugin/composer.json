@@ -1,0 +1,17 @@
+{
+    "name": "kalstein/pdf-plugin",
+    "description": "My custom wordpress plugin for PDF elements creation",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kalstein\\PdfPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raul Gonzalez",
+            "email": "raulx12@gmail.com"
+        }
+    ],
+    "require": {}
+}
